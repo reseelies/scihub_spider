@@ -20,3 +20,7 @@ else:
         # 如果 sci-hub 并未收录该文献，则 sd.downloadable = False
         # 如何处理请自行决定，可参考本项目 example
 ```
+  
+  
+  
+本程序仅供学习讨论使用，请勿用于商业用途。
