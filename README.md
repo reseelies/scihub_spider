@@ -1,7 +1,7 @@
 # scihub_spider
 这是一个 sci-hub 的文献爬虫类，可供需要批量下载较少量文献的人使用。（因为本程序运行效率不高）  
 ## 使用方法
-请将本项目的 SciHubSpider.py 文件下载至需要引用改文件的目录，之后使用如下方法：
+请将本项目的 SciHubSpider.py 文件下载至需要引用该文件的目录，之后使用如下方法：
 ```python
 from SciHubSpider import Scihub_Downloader as SD
 
